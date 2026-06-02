@@ -1,4 +1,4 @@
-# Hi, I'm Efty
+# Hi, I'm Fardin Ahsan Efty
 
 Welcome to my GitHub profile.
 
