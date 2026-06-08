@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff5,100:ff00c8&height=200&section=header&text=Fardin%20Ahsan%20Efty&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Freelance%20Developer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff5,100:ff00c8&height=200&section=header&text=Fardin%20Ahsan%20Efty&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Backend%20Developer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Visitor counter badge -->
 <img src="https://komarev.com/ghpvc/?username=FardinAhsan-12&label=Profile+Visitors&color=00fff5&style=for-the-badge&labelColor=0d0d0d" alt="Profile views"/>
