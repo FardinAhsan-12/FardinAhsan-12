@@ -27,14 +27,14 @@
 ## ⚡ About Me
 
 ```yaml
-name     : Fardin Ahsan Efty
-role     : CSE Undergrad @ Leading University | Backend Developer
-location : Bangladesh 🇧🇩
-focus    : Portfolio Websites & Gaming Projects
-learning : Advanced React · Data Structures & Algorithms
-design   : C++ / Python Logic
-goal     : Build scalable apps · Grow brand
-ask_me   : Competitive Programming
+Name     : Fardin Ahsan Efty
+Role     : CSE Undergrad @ Leading University | Backend Developer
+Location : Bangladesh 🇧🇩
+Focus    : Portfolio Websites & Gaming Projects
+Learning : Advanced React · Data Structures & Algorithms
+Design   : C++ / Python Logic
+Goal     : Build scalable apps · Grow brand
+Ask_me   : Competitive Programming
 ```
 
 ---
